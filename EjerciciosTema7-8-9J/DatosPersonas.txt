@@ -1,0 +1,3 @@
+persona{nombre='Sergio Romero', edad=29, casado=false}
+persona{nombre='Maria Paez', edad=39, casado=true}
+persona{nombre='Lorenzo Martín', edad=25, casado=false}
